@@ -9,9 +9,9 @@
 
 ## backend
 
-- node
 - graphql
 - apollo-server
+- typescript
 - jsonwebtoken
 - argon2
 - type-graphql
